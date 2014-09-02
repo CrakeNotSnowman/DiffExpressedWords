@@ -1,0 +1,32 @@
+README
+
+Identifying Deferentially Expressed 'Words'
+The program takes in two classes of genomes, class A and class B, organized by two multiFASTA files. Using a modified version of the LZ78 compression algorithm, a dictionary is generated for each sequence. These dictionaries are comprised of 'words' which are small strings of bases. The individual dictionaries are then merged to create one master dictionary comprised of words relevant to the genetic sequences being analyzed.
+(At this point, the analysis is moved to excel to make it easy to see data manipulation. The next update of the program will do this in the code and not require user manipulation in excel.)
+For each word, the program finds the number of times that the word appears in each sequence, and then averages that occurrence of the two classes. The Fold Change is then calculated by taking the maximum of one class divided by the other. The words are then prioritized based on the fold change. If the word has a large fold change, that word may be highly correlated with a distinguishing factor between the two classes of genomes.
+Words which have a fold change greater than a certain selected value are then focused on.
+At this point, the program can be considered to be complete as it has generated a list of deferentially expressed words, but there is an option to further explore those words.
+If each class is made up of subspecies of the same species, and a representative genome and gene list file is available for each class, they will be passed in next along with the prioritized deferentially expressed words.
+The representative genomes are scanned for each word. When a word is found, the location is made note of. The gene list file is then opened, and the program checks to see if the location of the word is in a coding or non-coding region of the genome. If it is in a coding region, the gene ID is passed to a function which checks NCBI's database. If the gene is not hypothetical, the gene description is copied into a summary document.
+A sample of summary for one word is shown below:
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				8
+Total in gene region:			8
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			1
+					A295L	Fucose synthetase[Paramecium bursaria Chlorella virus 1]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				15
+Total in gene region:			15
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			3
+					A078R	N-carbamoylputrescine amidohydrolase[Paramecium bursaria Chlorella virus 1]
+					A110L	[Paramecium bursaria Chlorella virus 1]
+					A260R	chitenase[Paramecium bursaria Chlorella virus 1]

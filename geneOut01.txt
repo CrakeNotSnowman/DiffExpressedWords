@@ -1,0 +1,287 @@
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				8
+Total in gene region:			8
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			1
+					A295L	Fucose synthetase[Paramecium bursaria Chlorella virus 1]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				15
+Total in gene region:			15
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			3
+					A078R	N-carbamoylputrescine amidohydrolase[Paramecium bursaria Chlorella virus 1]
+					A110L	[Paramecium bursaria Chlorella virus 1]
+					A260R	chitenase[Paramecium bursaria Chlorella virus 1]
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TCGTAGCCG
+Total hits:				1
+Total in gene region:			0
+Total in intergenic regions:		0
+Percent of time in gene region:		0.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			0
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TCGTAGCCG
+Total hits:				1
+Total in gene region:			1
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			0
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					CCTCCGTG
+Total hits:				14
+Total in gene region:			14
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			2
+					A245R	Cu/Zn superoxide dismutase[Paramecium bursaria Chlorella virus 1]
+					219	gp52 topoisomerase II medium subunit[Deftia phage phiW-14]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					CCTCCGTG
+Total hits:				3
+Total in gene region:			2
+Total in intergenic regions:		1
+Percent of time in gene region:		0.666666666667
+Percent of time in intergenic regions:	0.333333333333
+Non Hypothetical Genes:			1
+					A583L	DNA topoisomerase II[Paramecium bursaria Chlorella virus 1]
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					CATGGAGG
+Total hits:				19
+Total in gene region:			19
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			1
+					A011L	Capsid protein[Paramecium bursaria Chlorella virus 1]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					CATGGAGG
+Total hits:				1
+Total in gene region:			1
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			0
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				8
+Total in gene region:			8
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			1
+					A295L	Fucose synthetase[Paramecium bursaria Chlorella virus 1]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				15
+Total in gene region:			15
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			3
+					A078R	N-carbamoylputrescine amidohydrolase[Paramecium bursaria Chlorella virus 1]
+					A110L	[Paramecium bursaria Chlorella virus 1]
+					A260R	chitenase[Paramecium bursaria Chlorella virus 1]
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					GCTTCCCG
+Total hits:				15
+Total in gene region:			15
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			0
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					GCTTCCCG
+Total hits:				1
+Total in gene region:			0
+Total in intergenic regions:		0
+Percent of time in gene region:		0.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			0
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					GAGACAT
+Total hits:				44
+Total in gene region:			43
+Total in intergenic regions:		1
+Percent of time in gene region:		0.977272727273
+Percent of time in intergenic regions:	0.0227272727273
+Non Hypothetical Genes:			1
+					219	gp52 topoisomerase II medium subunit[Deftia phage phiW-14]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					GAGACAT
+Total hits:				44
+Total in gene region:			44
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			7
+					A094L	beta-1-3-glucanase[Paramecium bursaria Chlorella virus 1]
+					A237R	Homospermidine synthase[Paramecium bursaria Chlorella virus 1]
+					A248R	Protein kinase[Paramecium bursaria Chlorella virus 1]
+					A251R	M.CviAII adenine methylase[Paramecium bursaria Chlorella virus 1]
+					A528R	pA528R[African swine fever virus]
+					A609L	UDP-glucose dehydrogenase[Paramecium bursaria Chlorella virus 1]
+					MIMI_R400	S/T protein kinase, similar to Paramecium bursaria chlorella virus 1 A617R[Acanthamoeba polyphaga mimivirus]
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					ATGTTA
+Total hits:				56
+Total in gene region:			49
+Total in intergenic regions:		7
+Percent of time in gene region:		0.875
+Percent of time in intergenic regions:	0.125
+Non Hypothetical Genes:			5
+					A292L	Chitosanase[Paramecium bursaria Chlorella virus 1]
+					A011L	Capsid protein[Paramecium bursaria Chlorella virus 1]
+					219	gp52 topoisomerase II medium subunit[Deftia phage phiW-14]
+					A103R	mRNA guanylyltransferase[Paramecium bursaria Chlorella virus 1]
+					A638R	Agmatine iminohydrolase[Paramecium bursaria Chlorella virus 1]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					ATGTTA
+Total hits:				177
+Total in gene region:			163
+Total in intergenic regions:		14
+Percent of time in gene region:		0.920903954802
+Percent of time in intergenic regions:	0.0790960451977
+Non Hypothetical Genes:			17
+					A010R	Capsid protein[Paramecium bursaria Chlorella virus 1]
+					A064R	UDP-Glucose glycosyltransferase[Paramecium bursaria Chlorella virus 1]
+					A125L	pA125L[African swine fever virus]
+					A169R	Aspartate transcarbamylase[Paramecium bursaria Chlorella virus 1]
+					A207R	Arginine/Ornithine decarboxylase[Paramecium bursaria Chlorella virus 1]
+					A215L	Alkaline alginate lyas / 1-4 polyglucuronic acid lysase / polysaccharide lyase family 14 / vAL-1[Paramecium bursaria Chlorella virus 1]
+					A237R	Homospermidine synthase[Paramecium bursaria Chlorella virus 1]
+					A245R	Cu/Zn superoxide dismutase[Paramecium bursaria Chlorella virus 1]
+					A252R	R.CviAII restriction endonuclease[Paramecium bursaria Chlorella virus 1]
+					A278L	Protein kinase[Paramecium bursaria Chlorella virus 1]
+					A284L	Amindase[Paramecium bursaria Chlorella virus 1]
+					A430L	Major capsid protein[Paramecium bursaria Chlorella virus 1]
+					A438L	Glutaredoxin[Paramecium bursaria Chlorella virus 1]
+					SFUL_2360	glycosyltransferase, probably involved in cell wall biogenesis[Streptomyces fulvissimus DSM 40593]
+					A544R	ATP-dependent DNA ligase[Paramecium bursaria Chlorella virus 1]
+					A579L	R.CviAI restriction endonuclease[Paramecium bursaria Chlorella virus 1]
+					A583L	DNA topoisomerase II[Paramecium bursaria Chlorella virus 1]
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					ATCATAA
+Total hits:				29
+Total in gene region:			24
+Total in intergenic regions:		5
+Percent of time in gene region:		0.827586206897
+Percent of time in intergenic regions:	0.172413793103
+Non Hypothetical Genes:			0
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					ATCATAA
+Total hits:				47
+Total in gene region:			38
+Total in intergenic regions:		9
+Percent of time in gene region:		0.808510638298
+Percent of time in intergenic regions:	0.191489361702
+Non Hypothetical Genes:			7
+					A034R	Protein kinase[Paramecium bursaria Chlorella virus 1]
+					A094L	beta-1-3-glucanase[Paramecium bursaria Chlorella virus 1]
+					A098R	Hyaluronan synthase[Paramecium bursaria Chlorella virus 1]
+					A103R	mRNA guanylyltransferase[Paramecium bursaria Chlorella virus 1]
+					A237R	Homospermidine synthase[Paramecium bursaria Chlorella virus 1]
+					EhV072	putative DNA-binding protein[Emiliania huxleyi virus 86]
+					A674R	Thymidylate synthase X[Paramecium bursaria Chlorella virus 1]
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TCACAA
+Total hits:				95
+Total in gene region:			88
+Total in intergenic regions:		7
+Percent of time in gene region:		0.926315789474
+Percent of time in intergenic regions:	0.0736842105263
+Non Hypothetical Genes:			4
+					A011L	Capsid protein[Paramecium bursaria Chlorella virus 1]
+					A278L	Protein kinase[Paramecium bursaria Chlorella virus 1]
+					A103R	mRNA guanylyltransferase[Paramecium bursaria Chlorella virus 1]
+					A260R	chitenase[Paramecium bursaria Chlorella virus 1]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TCACAA
+Total hits:				143
+Total in gene region:			134
+Total in intergenic regions:		9
+Percent of time in gene region:		0.937062937063
+Percent of time in intergenic regions:	0.0629370629371
+Non Hypothetical Genes:			11
+					A094L	beta-1-3-glucanase[Paramecium bursaria Chlorella virus 1]
+					A181/182R	Chitinase[Paramecium bursaria Chlorella virus 1]
+					A251R	M.CviAII adenine methylase[Paramecium bursaria Chlorella virus 1]
+					A295L	Fucose synthetase[Paramecium bursaria Chlorella virus 1]
+					A384dL	Capsid protein[Paramecium bursaria Chlorella virus 1]
+					A438L	Glutaredoxin[Paramecium bursaria Chlorella virus 1]
+					A544R	ATP-dependent DNA ligase[Paramecium bursaria Chlorella virus 1]
+					A583L	DNA topoisomerase II[Paramecium bursaria Chlorella virus 1]
+					A609L	UDP-glucose dehydrogenase[Paramecium bursaria Chlorella virus 1]
+					A614L	Protein kinase[Paramecium bursaria Chlorella virus 1]
+					A638R	Agmatine iminohydrolase[Paramecium bursaria Chlorella virus 1]
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					AACATT
+Total hits:				201
+Total in gene region:			178
+Total in intergenic regions:		23
+Percent of time in gene region:		0.885572139303
+Percent of time in intergenic regions:	0.114427860697
+Non Hypothetical Genes:			4
+					A544R	ATP-dependent DNA ligase[Paramecium bursaria Chlorella virus 1]
+					A011L	Capsid protein[Paramecium bursaria Chlorella virus 1]
+					219	gp52 topoisomerase II medium subunit[Deftia phage phiW-14]
+					A103R	mRNA guanylyltransferase[Paramecium bursaria Chlorella virus 1]
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					AACATT
+Total hits:				306
+Total in gene region:			284
+Total in intergenic regions:		22
+Percent of time in gene region:		0.928104575163
+Percent of time in intergenic regions:	0.0718954248366
+Non Hypothetical Genes:			20
+					A010R	Capsid protein[Paramecium bursaria Chlorella virus 1]
+					TOP2	topoisomerase II homolog; A039L[Invertebrate iridescent virus 6]
+					A085R	Prolyl 4-hydroxylase[Paramecium bursaria Chlorella virus 1]
+					A103R	mRNA guanylyltransferase[Paramecium bursaria Chlorella virus 1]
+					MC121L	MC121L[Molluscum contagiosum virus subtype 1]
+					A151R	pA151R[African swine fever virus]
+					A181/182R	Chitinase[Paramecium bursaria Chlorella virus 1]
+					A207R	Arginine/Ornithine decarboxylase[Paramecium bursaria Chlorella virus 1]
+					A215L	Alkaline alginate lyas / 1-4 polyglucuronic acid lysase / polysaccharide lyase family 14 / vAL-1[Paramecium bursaria Chlorella virus 1]
+					A224L	IAP homolog[African swine fever virus]
+					A252R	R.CviAII restriction endonuclease[Paramecium bursaria Chlorella virus 1]
+					A277L	Protein kinase[Paramecium bursaria Chlorella virus 1]
+					A284L	Amindase[Paramecium bursaria Chlorella virus 1]
+					SFUL_2360	glycosyltransferase, probably involved in cell wall biogenesis[Streptomyces fulvissimus DSM 40593]
+					A542R	pA542R[African swine fever virus]
+					A579L	R.CviAI restriction endonuclease[Paramecium bursaria Chlorella virus 1]
+					A581R	6mA DNA methylase M.CviAI[Paramecium bursaria Chlorella virus 1]
+					A583L	DNA topoisomerase II[Paramecium bursaria Chlorella virus 1]
+					A612L	Histone H3K27 methylase[Paramecium bursaria Chlorella virus 1]
+					MIMI_R400	S/T protein kinase, similar to Paramecium bursaria chlorella virus 1 A617R[Acanthamoeba polyphaga mimivirus]
+
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					CACGGT
+Total hits:				171
+Total in gene region:			167
+Total in intergenic regions:		4
+Percent of time in gene region:		0.976608187135
+Percent of time in intergenic regions:	0.0233918128655
+Non Hypothetical Genes:			4
+					SFUL_2360	glycosyltransferase, probably involved in cell wall biogenesis[Streptomyces fulvissimus DSM 40593]
+					A430L	Major capsid protein[Paramecium bursaria Chlorella virus 1]
+					A011L	Capsid protein[Paramecium bursaria Chlorella virus 1]
+					A103R	mRNA guanylyltransferase[Paramecium bursaria Chlorella virus 1]

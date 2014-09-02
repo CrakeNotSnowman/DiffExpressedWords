@@ -1,0 +1,175 @@
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				8
+Total in gene region:			8
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				15
+Total in gene region:			15
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TCGTAGCCG
+Total hits:				0
+Total in gene region:			0
+Total in intergenic regions:		0
+Percent of time in gene region:		0.0
+Percent of time in intergenic regions:	0.0
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TCGTAGCCG
+Total hits:				1
+Total in gene region:			1
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					CCTCCGTG
+Total hits:				14
+Total in gene region:			14
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					CCTCCGTG
+Total hits:				3
+Total in gene region:			2
+Total in intergenic regions:		1
+Percent of time in gene region:		0.666666666667
+Percent of time in intergenic regions:	0.333333333333
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					CATGGAGG
+Total hits:				19
+Total in gene region:			19
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					CATGGAGG
+Total hits:				1
+Total in gene region:			1
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				8
+Total in gene region:			8
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TTGTGATT
+Total hits:				15
+Total in gene region:			15
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					GAGACAT
+Total hits:				44
+Total in gene region:			43
+Total in intergenic regions:		1
+Percent of time in gene region:		0.977272727273
+Percent of time in intergenic regions:	0.0227272727273
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					GAGACAT
+Total hits:				44
+Total in gene region:			44
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					ATGTTA
+Total hits:				56
+Total in gene region:			49
+Total in intergenic regions:		7
+Percent of time in gene region:		0.875
+Percent of time in intergenic regions:	0.125
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					ATGTTA
+Total hits:				177
+Total in gene region:			163
+Total in intergenic regions:		14
+Percent of time in gene region:		0.920903954802
+Percent of time in intergenic regions:	0.0790960451977
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					ATCATAA
+Total hits:				29
+Total in gene region:			24
+Total in intergenic regions:		5
+Percent of time in gene region:		0.827586206897
+Percent of time in intergenic regions:	0.172413793103
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					ATCATAA
+Total hits:				47
+Total in gene region:			38
+Total in intergenic regions:		9
+Percent of time in gene region:		0.808510638298
+Percent of time in intergenic regions:	0.191489361702
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					TCACAA
+Total hits:				95
+Total in gene region:			88
+Total in intergenic regions:		7
+Percent of time in gene region:		0.926315789474
+Percent of time in intergenic regions:	0.0736842105263
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					TCACAA
+Total hits:				143
+Total in gene region:			134
+Total in intergenic regions:		9
+Percent of time in gene region:		0.937062937063
+Percent of time in intergenic regions:	0.0629370629371
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					AACATT
+Total hits:				201
+Total in gene region:			178
+Total in intergenic regions:		23
+Percent of time in gene region:		0.885572139303
+Percent of time in intergenic regions:	0.114427860697
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					AACATT
+Total hits:				306
+Total in gene region:			284
+Total in intergenic regions:		22
+Percent of time in gene region:		0.928104575163
+Percent of time in intergenic regions:	0.0718954248366
+
+
+Sequence:  >gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					CACGGT
+Total hits:				171
+Total in gene region:			167
+Total in intergenic regions:		4
+Percent of time in gene region:		0.976608187135
+Percent of time in intergenic regions:	0.0233918128655
+Sequence:  >gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					CACGGT
+Total hits:				66
+Total in gene region:			66
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+

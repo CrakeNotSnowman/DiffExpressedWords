@@ -1,0 +1,17 @@
+>gi|119953744|ref|NC_008724.1| Acanthocystis turfacea Chlorella virus 1, complete genome
+Word:					GCTTCCCG
+Total hits:				15
+Total in gene region:			15
+Total in intergenic regions:		0
+Percent of time in gene region:		1.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			0
+>gi|340025671|ref|NC_000852.5| Paramecium bursaria Chlorella virus 1, complete genome
+Word:					GCTTCCCG
+Total hits:				1
+Total in gene region:			0
+Total in intergenic regions:		0
+Percent of time in gene region:		0.0
+Percent of time in intergenic regions:	0.0
+Non Hypothetical Genes:			0
+
